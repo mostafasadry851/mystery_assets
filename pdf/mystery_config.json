@@ -1,7 +1,8 @@
-{
-  "book": {
-    "title": "عنوان الكتاب هنا",
-    "url": "https://github.com/mostafasadry851/mystery_assets/releases/download/v1.0/001.pdf",
-    "version": "1.0"
+[
+  {
+    "id": 1,
+    "title": "مجهول في الارض",
+    "author": "مصطفى الموسوي",
+    "url": "https://github.com/mostafasadry851/mystery_assets/releases/download/v1.0/001.pdf"
   }
-}
+]
