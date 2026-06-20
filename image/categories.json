@@ -1,4 +1,6 @@
 [
-  {"id": "hussin_atya", "name": "الشهيد حسين عطية"},
-  {"id": "waleed_s", "name": "الشهيد وليد"}
+  {
+    "id": "hussin_atya",
+    "name": "حسين عطية"
+  }
 ]
